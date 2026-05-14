@@ -20,6 +20,7 @@
 *                                 M A C R O S
 ********************************************************************************
 */
+#include <linux/mm.h>
 #include "osal_typedef.h"
 #include "wmt_dbg.h"
 #include "wmt_dev.h"
